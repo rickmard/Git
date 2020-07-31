@@ -1,3 +1,5 @@
-add <- function(x, y){
+add_mult_div <- function(x, y){
   x + y
+  x * y
+  x / y
 }
